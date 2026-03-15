@@ -619,12 +619,12 @@ No first-come-first-served. Sicker patient always wins.
 
 | | Member | Role |
 |:---:|:---|:---|
-| 👨‍💻 | **Aditya** | Frontend Lead + OpenCV Specialist |
-| 👨‍💻 | Team Member 2 | Backend + IoT Integration |
-| 👨‍💻 | Team Member 3 | ML / AI Models |
-| 👨‍💻 | Team Member 4 | Mobile Applications |
+| 👨‍💻 | **Aditya Kumrawat** | Frontend Lead + OpenCV Specialist |
+| 👨‍💻 | **Shreyansh Sharma** | Backend + IoT Integration |
+| 👨‍💻 | **Aditya Tiwari** | ML / AI Models |
+| 👨‍💻 | **Aarushi Shah** | Mobile Applications |
 
-**Smart India Hackathon 2025 · B.Tech Computer Science Engineering**
+**Built for Prayatna 3.0 - AITR, Indore**
 
 </div>
 
