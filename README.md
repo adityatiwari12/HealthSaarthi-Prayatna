@@ -2,12 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=HealthSaarthi&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=हर%20पल,%20सही%20जाँच%20%E2%80%94%20The%20Right%20Care.%20The%20Right%20Place.%20The%20Right%20Time.&descAlignY=62&descSize=20&descColor=rgba(255,255,255,0.85)"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Live%20Demo-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathon-SIH%202025-orange?style=for-the-badge&logo=trophy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Statement-PS%2025108-blue?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
